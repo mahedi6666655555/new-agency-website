@@ -1,0 +1,17 @@
+.for-bg {
+    background-image: url(../images/bg1.jpg);
+
+    background-size: cover;
+}
+
+.mx99:hover {
+    background-color: pink;
+    border-radius: 25px;
+    border: none;
+    padding: 19px 30px;
+}
+
+.classmm{
+    margin-top: 200px;
+    color: white;
+}
